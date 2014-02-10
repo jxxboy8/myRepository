@@ -1,0 +1,40 @@
+p1,West Century Blvd,90,66,photo;gps
+p2,Orange Ave,526,86,traffic;photo
+p3,East Rosecrans Ave,349,214,video
+p4,University Dr,322,365,pollution;temperature
+p5,East Artesia Blvd,519,316,gps
+p6,West El Segundo Blvd,156,171,traffic
+p7,East 103rd St,336,71,pollution;photo
+p8,East 120th St,314,158,video;gps
+p9,South Avalon Blvd,283,391,pollution;video
+p10,North Long Beach Blvd,498,447,photo;gps
+p11,El Camino Village,83,276,video;traffic;pollution
+p12,West Redondo Beach Blvd,171,275,gps
+p13,W.190th St,61,371,temperature;traffic
+p14,West Carson St,51,470,video;temperature
+p15,W.220th St,215,474,traffic;pollution;gps
+p16,Firestone Blvd,592,51,photo;video
+p17,Garfield Ave,585,103,temperature;gps
+p18,Gardendale St,563,156,traffic;pollution
+p19,Brookshire Ave,574,311,gps;photo
+p20,Cherry Ave,586,448,pollution;temperature
+p21,East Alondra Blvd,373,271,video;gps
+p22,East Compton Blvd,429,250,pollution
+p23,West Manville St,436,331,video;photo
+p24,South Santa Fe Ave,438,392,photo
+p25,South Alameda St,417,450,gps;traffic
+p26,Marine Ave,237,246,video;photo;temperature
+p27,South Broadway,238,327,gps;video;photo
+p28,West Greenleaf Blvd,316,300,temperature
+p29,East Walnut St,347,317,pollution;gps
+p30,East Del Amo Blvd,363,395,photo;video;gps
+p31,Morningside Park,53,21,pollution
+p32,South Western Ave,165,65,temperature;traffic
+p33,Imperial Hwy,249,133,video;pollution
+p34,West Athens,178,136,pollution;photo
+p35,Century Fwy,91,134,video;photo;temperature
+p36,Manchester Park,231,30,video;traffic
+p37,State St,457,34,pollution;photo
+p38,Glenn Anderson Fwy,450,130,gps;temperature
+p39,Somerset Blvd,532,233,video;traffic;photo
+p40,Crenshaw Blvd,121,482,temperature;pollution
